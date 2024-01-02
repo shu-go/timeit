@@ -1,4 +1,4 @@
-module shu-go/timeit
+module github.com/shu-go/timeit
 
 go 1.21
 
