@@ -1,6 +1,6 @@
 module shu-go/timeit
 
-go 1.21.5
+go 1.21
 
 require (
 	github.com/shu-go/elapsed v0.0.0-20230401113807-93b292df2756
